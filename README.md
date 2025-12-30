@@ -80,4 +80,4 @@ See [CHANGELOG.md](CHANGELOG.md) to see the latest changes and versions. Major v
 
 ## Credits
 
-This app was developed by [Benjamin Klieger](https://x.com/benjaminklieger) at [Groq](https://groq.com) and uses the AI Chatbot template created by Vercel: [Github Repository](https://github.com/vercel/ai-chatbot).
+This app was developed by Benjamin Klieger at [Groq](https://groq.com) and uses the AI Chatbot template created by Vercel: [Github Repository](https://github.com/vercel/ai-chatbot).
